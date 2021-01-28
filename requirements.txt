@@ -1,6 +1,2 @@
-Flask==0.11.1
-gunicorn==19.6.0
-wikipedia
 line-bot-sdk
-pandas==0.20.3
-googletrans
+flask
